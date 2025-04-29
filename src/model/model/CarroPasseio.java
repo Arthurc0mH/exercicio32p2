@@ -40,6 +40,6 @@ public class CarroPasseio extends Veiculo{
     }
     public void imprimir(){
         super.imprimir();
-        System.out.println("Modelo: " + modelo + "\nCor: " + cor "\n");
+        System.out.println("Modelo: " + modelo + "\nCor: " + cor + "\n");
     }
 }
